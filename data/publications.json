@@ -1,0 +1,257 @@
+[
+  {
+    "id": "timer-m1",
+    "title": "Timer-M1: A Multivariate Time Series Foundation Model via Learning Primitives",
+    "authors": [
+      "Haoran Zhang",
+      "Haixuan Liu",
+      "Xingjian Su",
+      "Yong Liu",
+      "Zhi Chen",
+      "Yuxuan Wang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "equal_contribution": [
+      "Haoran Zhang",
+      "Haixuan Liu",
+      "Xingjian Su",
+      "Yong Liu"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint",
+    "badge": "arXiv",
+    "arxiv": "2610.11734",
+    "summary": "Primitive-based data synthesis and episodic pre-training for zero-shot multivariate forecasting.",
+    "image": "assets/img/timer-m1-evaluation.png",
+    "image_alt": "Timer-M1 evaluation overview: public forecasting benchmarks and temporal, relational, and reliability capabilities",
+    "links": {},
+    "selected": true,
+    "selected_order": 0
+  },
+  {
+    "id": "timevista",
+    "title": "TimeVista: Exploring and Exploiting Vision-Language Models as Judges for Time Series Forecasting",
+    "authors": [
+      "Zhi Chen",
+      "Yuxuan Wang",
+      "Jialong Wu",
+      "Yong Liu",
+      "Haoran Zhang",
+      "Xingjian Su",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint",
+    "badge": "arXiv",
+    "arxiv": "2606.16173",
+    "summary": "Vision-language models as interpretable judges of forecast quality and temporal patterns.",
+    "image": "assets/img/timevista.png",
+    "links": {},
+    "selected": false
+  },
+  {
+    "id": "timer-s1",
+    "title": "Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling",
+    "authors": [
+      "Yong Liu",
+      "Xingjian Su",
+      "Shiyu Wang",
+      "Haoran Zhang",
+      "Haixuan Liu",
+      "Yuxuan Wang",
+      "Zhou Ye",
+      "Yang Xiang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint",
+    "badge": "arXiv",
+    "arxiv": "2603.04791",
+    "summary": "Scaling time series foundation models through sparse experts and serial-token prediction.",
+    "image": "assets/img/timer-s1-model.png",
+    "links": {
+      "Models": "https://huggingface.co/bytedance-research/Timer-S1"
+    },
+    "selected": true,
+    "selected_order": 2,
+    "note": "Co-first author",
+    "image_class": "timer-s1-model",
+    "image_alt": "Timer-S1 model architecture with TimeMoE, TimeSTP, and a shared quantile forecasting head"
+  },
+  {
+    "id": "dits",
+    "title": "DiTS: Multimodal Diffusion Transformers Are Time Series Forecasters",
+    "authors": [
+      "Haoran Zhang",
+      "Haixuan Liu",
+      "Yong Liu",
+      "Yunzhong Qiu",
+      "Yuxuan Wang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "equal_contribution": [
+      "Haoran Zhang",
+      "Haixuan Liu",
+      "Yong Liu"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint",
+    "badge": "arXiv",
+    "arxiv": "2602.06597",
+    "summary": "Conditional flow matching and time-aligned modulation for covariate-aware forecasting.",
+    "image": "assets/img/dits.png",
+    "links": {},
+    "selected": true,
+    "selected_order": 1
+  },
+  {
+    "id": "timesbert",
+    "title": "TimesBERT: A BERT-Style Foundation Model for Time Series Understanding",
+    "authors": [
+      "Haoran Zhang",
+      "Yong Liu",
+      "Yunzhong Qiu",
+      "Haixuan Liu",
+      "Zhongyi Pei",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "year": 2025,
+    "venue": "ACM International Conference on Multimedia (ACM MM)",
+    "badge": "ACM MM",
+    "arxiv": "2502.21245",
+    "summary": "Multi-granularity pre-training for general-purpose time series understanding.",
+    "image": "assets/img/timesbert-representations.png",
+    "links": {
+      "Proceedings": "https://doi.org/10.1145/3746027.3755238"
+    },
+    "selected": true,
+    "selected_order": 3,
+    "note": "Oral",
+    "image_alt": "TimesBERT learned representations across nine time series datasets"
+  },
+  {
+    "id": "timexer",
+    "title": "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables",
+    "authors": [
+      "Yuxuan Wang",
+      "Haixu Wu",
+      "Jiaxiang Dong",
+      "Guo Qin",
+      "Haoran Zhang",
+      "Yong Liu",
+      "Yunzhong Qiu",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "year": 2024,
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "badge": "NeurIPS",
+    "arxiv": "2402.19072",
+    "summary": "Bridging endogenous temporal patterns and exogenous information with Transformers.",
+    "image": "assets/img/timexer.png",
+    "links": {
+      "Code": "https://github.com/thuml/TimeXer"
+    },
+    "equal_contribution": [
+      "Yuxuan Wang",
+      "Haixu Wu"
+    ],
+    "selected": false
+  },
+  {
+    "id": "timer",
+    "title": "Timer: Generative Pre-trained Transformers Are Large Time Series Models",
+    "authors": [
+      "Yong Liu",
+      "Haoran Zhang",
+      "Chenyu Li",
+      "Xiangdong Huang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "equal_contribution": [
+      "Yong Liu",
+      "Haoran Zhang",
+      "Chenyu Li"
+    ],
+    "year": 2024,
+    "venue": "International Conference on Machine Learning (ICML)",
+    "badge": "ICML",
+    "arxiv": "2402.02368",
+    "summary": "Generative pre-training for transferable forecasting, imputation, and anomaly detection.",
+    "image": "assets/img/timer.png",
+    "links": {
+      "Code": "https://github.com/thuml/Large-Time-Series-Model",
+      "Data": "https://huggingface.co/datasets/thuml/UTSD",
+      "Proceedings": "https://proceedings.mlr.press/v235/liu24cb.html"
+    },
+    "selected": true,
+    "selected_order": 4,
+    "image_class": "pretraining-panel",
+    "image_alt": "Timer pre-training through normalized merging and single-series sequences"
+  },
+  {
+    "id": "itransformer",
+    "title": "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting",
+    "authors": [
+      "Yong Liu",
+      "Tengge Hu",
+      "Haoran Zhang",
+      "Haixu Wu",
+      "Shiyu Wang",
+      "Lintao Ma",
+      "Mingsheng Long"
+    ],
+    "equal_contribution": [
+      "Yong Liu",
+      "Tengge Hu",
+      "Haoran Zhang"
+    ],
+    "year": 2024,
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "badge": "ICLR",
+    "note": "Spotlight",
+    "arxiv": "2310.06625",
+    "summary": "Variate tokens and inverted attention for effective multivariate forecasting.",
+    "image": "assets/img/itransformer-radar.png",
+    "links": {
+      "Code": "https://github.com/thuml/iTransformer",
+      "OpenReview": "https://openreview.net/forum?id=JePfAI8fah"
+    },
+    "selected": true,
+    "selected_order": 5,
+    "image_alt": "iTransformer forecasting results compared across six benchmarks"
+  },
+  {
+    "id": "simmtm",
+    "title": "SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling",
+    "authors": [
+      "Jiaxiang Dong",
+      "Haixu Wu",
+      "Haoran Zhang",
+      "Li Zhang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "year": 2023,
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "badge": "NeurIPS",
+    "note": "Spotlight",
+    "arxiv": "2302.00861",
+    "summary": "Learning time series representations by reconstructing complementary masked views.",
+    "image": "assets/img/simmtm.png",
+    "links": {
+      "Code": "https://github.com/thuml/SimMTM"
+    },
+    "equal_contribution": [
+      "Jiaxiang Dong",
+      "Haixu Wu"
+    ],
+    "selected": false
+  }
+]

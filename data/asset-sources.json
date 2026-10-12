@@ -1,0 +1,20 @@
+{
+  "portrait.jpg": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=xtyiJv4AAAAJ&citpid=4",
+  "dits.png": "https://arxiv.org/html/2602.06597v2/intro.png",
+  "timesbert.png": "https://arxiv.org/html/2502.21245v1/main.png",
+  "timer-s1.png": "https://arxiv.org/html/2603.04791v3/x1.png",
+  "timevista.png": "https://arxiv.org/html/2606.16173v1/intro.png",
+  "itransformer.png": "https://raw.githubusercontent.com/thuml/iTransformer/main/figures/motivation.png",
+  "timer.png": "https://raw.githubusercontent.com/thuml/Large-Time-Series-Model/main/figures/timer.png",
+  "timexer.png": "https://raw.githubusercontent.com/thuml/TimeXer/main/figures/TimeXer.png",
+  "simmtm.png": "https://raw.githubusercontent.com/thuml/SimMTM/main/figs/overview.png",
+  "portrait-formal.jpg": "User-provided photograph, 10 October 2026",
+  "favicon.png": "User-provided second image, 12 October 2026; converted from WebP to PNG without cropping",
+  "favicon-stopwatch.svg": "Original transparent-background stopwatch icon, created as SVG on 12 October 2026 at the author's request; replaces the previous favicon",
+  "salamander-samples.js": "Salamander Grand Piano by Alexander Holm (CC BY 3.0), distributed via Tonejs/audio at commit efd8296360f9526e379bfbe5c1698ff54d6a1d34. See assets/audio/piano/manifest.json and CREDITS.txt for all 21 source MP3 URLs and attribution.",
+  "timer-s1-architecture.png": "https://arxiv.org/html/2603.04791v3/x2.png",
+  "timesbert-representations.png": "https://arxiv.org/html/2502.21245v1/figures/representation-horizontal.png",
+  "itransformer-radar.png": "https://raw.githubusercontent.com/thuml/iTransformer/main/figures/radar.png",
+  "timer-m1-evaluation.png": "https://arxiv.org/html/2610.11734v1/evaluation.png",
+  "timer-s1-model.png": "https://arxiv.org/html/2603.04791v3/x4.png"
+}

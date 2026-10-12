@@ -1,0 +1,18 @@
+Piano sound credits
+
+Salamander Grand Piano V2
+Author: Alexander Holm
+Instrument: Yamaha C5 grand piano
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Sample distribution: Tone.js audio collection (audio assets only; Tone.js code is not used).
+Source: https://github.com/Tonejs/audio/tree/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander
+
+The 21 MP3 samples from C2 to C7 are unchanged, encoded as Base64 in a local
+JavaScript data file to support both HTTP hosting and direct file opening.
+Playback resamples adjacent notes by at most one semitone and applies a short
+attack/release envelope and gentle peak compression.
+Original sample information and attribution are retained in ORIGINAL-README.txt.
+The sample license applies to the recordings, separately from the site's code.
+No endorsement by the original author is implied.

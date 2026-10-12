@@ -1,0 +1,135 @@
+{
+  "source": "https://github.com/Tonejs/audio/tree/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander",
+  "commit": "efd8296360f9526e379bfbe5c1698ff54d6a1d34",
+  "author": "Alexander Holm",
+  "license": "CC BY 3.0",
+  "instrument": "Yamaha C5",
+  "samples": [
+    {
+      "midi": 36,
+      "note": "C2",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/C2.mp3",
+      "bytes": 110357
+    },
+    {
+      "midi": 39,
+      "note": "D#2",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Ds2.mp3",
+      "bytes": 110796
+    },
+    {
+      "midi": 42,
+      "note": "F#2",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Fs2.mp3",
+      "bytes": 102320
+    },
+    {
+      "midi": 45,
+      "note": "A2",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/A2.mp3",
+      "bytes": 81678
+    },
+    {
+      "midi": 48,
+      "note": "C3",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/C3.mp3",
+      "bytes": 78036
+    },
+    {
+      "midi": 51,
+      "note": "D#3",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Ds3.mp3",
+      "bytes": 78717
+    },
+    {
+      "midi": 54,
+      "note": "F#3",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Fs3.mp3",
+      "bytes": 77933
+    },
+    {
+      "midi": 57,
+      "note": "A3",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/A3.mp3",
+      "bytes": 74526
+    },
+    {
+      "midi": 60,
+      "note": "C4",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/C4.mp3",
+      "bytes": 78718
+    },
+    {
+      "midi": 63,
+      "note": "D#4",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Ds4.mp3",
+      "bytes": 73519
+    },
+    {
+      "midi": 66,
+      "note": "F#4",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Fs4.mp3",
+      "bytes": 68219
+    },
+    {
+      "midi": 69,
+      "note": "A4",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/A4.mp3",
+      "bytes": 61148
+    },
+    {
+      "midi": 72,
+      "note": "C5",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/C5.mp3",
+      "bytes": 68920
+    },
+    {
+      "midi": 75,
+      "note": "D#5",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Ds5.mp3",
+      "bytes": 58179
+    },
+    {
+      "midi": 78,
+      "note": "F#5",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Fs5.mp3",
+      "bytes": 51597
+    },
+    {
+      "midi": 81,
+      "note": "A5",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/A5.mp3",
+      "bytes": 45747
+    },
+    {
+      "midi": 84,
+      "note": "C6",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/C6.mp3",
+      "bytes": 28065
+    },
+    {
+      "midi": 87,
+      "note": "D#6",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Ds6.mp3",
+      "bytes": 31395
+    },
+    {
+      "midi": 90,
+      "note": "F#6",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/Fs6.mp3",
+      "bytes": 26478
+    },
+    {
+      "midi": 93,
+      "note": "A6",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/A6.mp3",
+      "bytes": 30013
+    },
+    {
+      "midi": 96,
+      "note": "C7",
+      "source": "https://raw.githubusercontent.com/Tonejs/audio/efd8296360f9526e379bfbe5c1698ff54d6a1d34/salamander/C7.mp3",
+      "bytes": 18963
+    }
+  ]
+}
